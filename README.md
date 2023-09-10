@@ -10,7 +10,7 @@
 
 **Da3dsoul.dev Downloader** is an executable that download all image from the first to the latest from Da3dsoul.dev.
 
-No GUi, full automatic
+No GUI, full automatic
 
 ## Download
 
