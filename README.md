@@ -8,7 +8,7 @@
     <img src="assets\logo.png" alt="Icon" width="300" height="300" />
 </p>
 
-**Da3dsoul.dev Downloader** is an executable that download all image from the first to the latest from Da3dsoul.dev.
+**Da3dsoul.dev Downloader** is an executable that download all images from the first to the latest from Da3dsoul.dev.
 
 No GUI, full automatic
 
