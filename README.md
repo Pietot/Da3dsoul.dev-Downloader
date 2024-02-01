@@ -2,7 +2,7 @@
 
 ![Static Badge](https://img.shields.io/badge/made_in-France-red?labelColor=blue)
 ![Static Badge](https://img.shields.io/badge/platform-windows-74c835)
-![Static Badge](https://img.shields.io/badge/status-bugfix-74c835)
+![Static Badge](https://img.shields.io/badge/status-done-74c835)
 
 <p align="center">
     <img src="assets\logo.png" alt="Icon" width="300" height="300" />
