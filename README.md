@@ -28,16 +28,16 @@ Once you have downloaded the executable, follow these steps:
 
 ![Texet alternatif](./assets/Screen2.png)
 
-> **Note**: For the download path, use an empty folder or you will get this error :
+> **Note**: For the download path, use an empty folder or you will get this error:
 > "number_subfile = int(nat.natsorted(sub_files)[-1].split('#')[-1])" and program will crash
 
-- That's all ! Images will start downloading and no need to do these steps next time you launch it, it will directly download image
+- That's all! Images will start downloading and no need to do these steps next time you launch it, it will directly download image
 
-**WARNING !** : Do not modify Log.txt or settings.json if you don't know what you are doing
+**WARNING !**: Do not modify Log.txt or settings.json if you don't know what you are doing
 
 ## Q&A
 
-- How can I change the directory ?
+- How can I change the directory?
 
 Open settings.json in the folder you placed the .exe and change current path by the new path
 
